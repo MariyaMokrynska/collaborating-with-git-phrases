@@ -3,3 +3,4 @@ def greet():
 
 def farewell():
     print("Goodbye, World!")
+    print("Practice")
